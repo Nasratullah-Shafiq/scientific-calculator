@@ -1,0 +1,18 @@
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe.config
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.exe
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.pdb
+F:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Scientific_Calculators.resources
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.exe
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\bin\Debug\Scientific Calculator.pdb
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csprojResolveAssemblyReference.cache
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Scientific_Calculators.resources
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+G:\Stock\Stock_Management\Scientific Calculator\Scientific Calculator\obj\Debug\Scientific Calculator.csproj.GenerateResource.Cache
